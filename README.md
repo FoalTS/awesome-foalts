@@ -1,2 +1,7 @@
-# awesome-foalts
-A list of FoalTS resources from the community :heart:
+# Awesome Foal TS
+
+A list of Foal TS resources from the community :heart:
+
+## Videos
+
+## Articles
